@@ -88,7 +88,7 @@ public class Tampilan extends JFrame implements ActionListener {
                 JOptionPane.showMessageDialog(this, "Harap Masukkan Panjang !!");
             }
             else if (tflebar.getText().isEmpty()) {
-                JOptionPane.showMessageDialog(this, "Harap Masukkan Tinggi !!");
+                JOptionPane.showMessageDialog(this, "Harap Masukkan Lebar !!");
             }
             else if (tftinggi.getText().isEmpty()) {
                 JOptionPane.showMessageDialog(this, "Harap Masukkan Tinggi !!");
